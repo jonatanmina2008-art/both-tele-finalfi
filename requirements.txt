@@ -8,3 +8,4 @@ aiogram
 pydantic
 bcrypt
 python-jose
+email-validator

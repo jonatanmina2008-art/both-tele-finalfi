@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+cryptography
+python-dotenv
+aiogram
+pydantic
+bcrypt
